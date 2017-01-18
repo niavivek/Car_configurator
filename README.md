@@ -1,2 +1,3 @@
 # Car_configurator
 This is a project for my advanced java class where a car configuration application was built in six units. Each unit provides learning opportunities in Object Oriented Design. The final application allows users to upload a custom file with available options for multiple cars and allows multiple users to configure multiple cars and view the pricing and the options of the selected car.
+Each step contains a design diagram used for designing the application. Step 6 folder contains a lessons learnt folder which summarizes the concepts learned during the building of this application.
