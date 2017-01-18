@@ -1,0 +1,509 @@
+Name : Nianthrini Vivekanandan
+Class and Section : CIS 35B De Anza -Java programming
+Assignment Number : Lab 5
+Due Date : 06/04/2016
+Date Submitted :06/04/2016
+
+Test runs for Step 5
+
+RUN 1 
+
+CLIENT
+Enter 1 to upload a file
+Enter 2 to configure a car
+1
+Enter the properties file name
+Toyota_prop.txt
+Waiting for upload status
+Upload successfull
+Do you want to upload a file?Y or N
+n
+Do you want to quit?Y or N
+n
+Do you want to configure a car?Y or N
+y
+Getting all models
+Please select the model
+Enter 1 to select Toyota Two Prius
+1
+Please select the options
+Select Color 
+Enter 1 to select Ford Knox Gold ClearCoat Metallic 
+Enter 2 to select Liquid Grey ClearCoat Metallic 
+Enter 3 to select Infra-Red ClearCoat
+Enter 4 to select Grabber Green ClearCoat Metallic 
+Enter 5 to select Sangria red ClearCoat Metallic
+Enter 6 to select French Blue ClearCoat Metallic 
+Enter 7 to select Twilight Blue ClearCoat Metallic 
+Enter 8 to select CD Silver ClearCoat Metallic 
+Enter 9 to select Pitch Black ClearCoat 
+Enter 10 to select Cloud 9 White ClearCoat
+1
+Select Transmission 
+Enter 1 to select Automatic
+Enter 2 to select Manual 
+1
+Select Brakes/Traction Control
+Enter 1 to select Standard
+Enter 2 to select ABS
+Enter 3 to select ABS with Advance Trac
+1
+Select Side Impact Air Bags
+Enter 1 to select Not Present
+Enter 2 to select Present
+1
+Select Power Moonroof
+Enter 1 to select Not Present
+Enter 2 to select Present
+1
+Select Driver Assistance Package
+Enter 1 to select Not Present
+Enter 2 to select Present
+1
+Enter Y to display choices
+y
+The Configured options are
+Model Name: Toyota Two Prius
+Base model price: 24324.0
+Option                        Choice                                  Price  
+Color                         Ford Knox Gold ClearCoat Metallic       0.0    
+Transmission                  Automatic                               0.0    
+Brakes/Traction Control       Standard                                0.0    
+Side Impact Air Bags          Not Present                             0.0    
+Power Moonroof                Not Present                             0.0    
+Driver Assistance Package     Not Present                             0.0    
+Total price with Options: 24324.0
+
+Do you want to configure a car?Y or N
+n
+Do you want to upload a file?Y or N
+n
+Do you want to quit?Y or N
+y
+Exiting program
+
+SERVER
+File successfully created
+Sending all models to Client
+Sending selected auto to Client
+
+RUN 2
+
+CLIENT
+Enter 1 to upload a file
+Enter 2 to configure a car
+1
+Enter the properties file name
+Toyota_prop.txt
+Waiting for upload status
+Upload successfull
+Do you want to upload a file?Y or N
+y
+Enter the properties file name
+Tesla_prop.txt
+Waiting for upload status
+Upload successfull
+Do you want to upload a file?Y or N
+y
+Enter the properties file name
+Ford_prop.txt
+Waiting for upload status
+Upload successfull
+Do you want to upload a file?Y or N
+n
+Do you want to quit?Y or N
+n
+Do you want to configure a car?Y or N
+y
+Getting all models
+Please select the model
+Enter 1 to select Toyota Two Prius
+Enter 2 to select Model S Tesla
+Enter 3 to select Focus Wagon ZTW Ford
+1
+Please select the options
+Select Color 
+Enter 1 to select Ford Knox Gold ClearCoat Metallic 
+Enter 2 to select Liquid Grey ClearCoat Metallic 
+Enter 3 to select Infra-Red ClearCoat
+Enter 4 to select Grabber Green ClearCoat Metallic 
+Enter 5 to select Sangria red ClearCoat Metallic
+Enter 6 to select French Blue ClearCoat Metallic 
+Enter 7 to select Twilight Blue ClearCoat Metallic 
+Enter 8 to select CD Silver ClearCoat Metallic 
+Enter 9 to select Pitch Black ClearCoat 
+Enter 10 to select Cloud 9 White ClearCoat
+1
+Select Transmission 
+Enter 1 to select Automatic
+Enter 2 to select Manual 
+2
+Select Brakes/Traction Control
+Enter 1 to select Standard
+Enter 2 to select ABS
+Enter 3 to select ABS with Advance Trac
+2
+Select Side Impact Air Bags
+Enter 1 to select Not Present
+Enter 2 to select Present
+2
+Select Power Moonroof
+Enter 1 to select Not Present
+Enter 2 to select Present
+2
+Select Driver Assistance Package
+Enter 1 to select Not Present
+Enter 2 to select Present
+2
+Enter Y to display choices
+y
+The Configured options are
+Model Name: Toyota Two Prius
+Base model price: 24324.0
+Option                        Choice                                  Price  
+Color                         Ford Knox Gold ClearCoat Metallic       0.0    
+Transmission                  Manual                                  -815.0 
+Brakes/Traction Control       ABS                                     400.0  
+Side Impact Air Bags          Present                                 350.0  
+Power Moonroof                Present                                 595.0  
+Driver Assistance Package     Present                                 1695.0 
+Total price with Options: 26549.0
+
+Do you want to configure a car?Y or N
+y
+Getting all models
+Please select the model
+Enter 1 to select Toyota Two Prius
+Enter 2 to select Model S Tesla
+Enter 3 to select Focus Wagon ZTW Ford
+2
+Please select the options
+Select Color 
+Enter 1 to select Ford Knox Gold ClearCoat Metallic 
+Enter 2 to select Liquid Grey ClearCoat Metallic 
+Enter 3 to select Infra-Red ClearCoat
+Enter 4 to select Grabber Green ClearCoat Metallic 
+Enter 5 to select Sangria red ClearCoat Metallic
+Enter 6 to select French Blue ClearCoat Metallic 
+Enter 7 to select Twilight Blue ClearCoat Metallic 
+Enter 8 to select CD Silver ClearCoat Metallic 
+Enter 9 to select Pitch Black ClearCoat 
+Enter 10 to select Cloud 9 White ClearCoat
+4
+Select Transmission 
+Enter 1 to select Automatic
+Enter 2 to select Manual 
+1
+Select Brakes/Traction Control
+Enter 1 to select Standard
+Enter 2 to select ABS
+Enter 3 to select ABS with Advance Trac
+1
+Select Side Impact Air Bags
+Enter 1 to select Not Present
+Enter 2 to select Present
+2
+Select Power Moonroof
+Enter 1 to select Not Present
+Enter 2 to select Present
+2
+Select Driver Assistance Package
+Enter 1 to select Not Present
+Enter 2 to select Present
+2
+Select Auto Pilot
+Enter 1 to select Not Present
+Enter 2 to select Present
+2
+Select Collision Mitigation Package
+Enter 1 to select Not Present
+Enter 2 to select Present
+2
+Enter Y to display choices
+y
+The Configured options are
+Model Name: Model S Tesla
+Base model price: 75000.0
+Option                        Choice                                  Price  
+Color                         Grabber Green ClearCoat Metallic        0.0    
+Transmission                  Automatic                               0.0    
+Brakes/Traction Control       Standard                                0.0    
+Side Impact Air Bags          Present                                 350.0  
+Power Moonroof                Present                                 595.0  
+Driver Assistance Package     Present                                 1695.0 
+Auto Pilot                    Present                                 2695.0 
+Collision Mitigation Package  Present                                 1095.0 
+Total price with Options: 81430.0
+
+Do you want to configure a car?Y or N
+y
+Getting all models
+Please select the model
+Enter 1 to select Toyota Two Prius
+Enter 2 to select Model S Tesla
+Enter 3 to select Focus Wagon ZTW Ford
+3
+Please select the options
+Select Color 
+Enter 1 to select Ford Knox Gold ClearCoat Metallic 
+Enter 2 to select Liquid Grey ClearCoat Metallic 
+Enter 3 to select Infra-Red ClearCoat
+Enter 4 to select Grabber Green ClearCoat Metallic 
+Enter 5 to select Sangria red ClearCoat Metallic
+Enter 6 to select French Blue ClearCoat Metallic 
+Enter 7 to select Twilight Blue ClearCoat Metallic 
+Enter 8 to select CD Silver ClearCoat Metallic 
+Enter 9 to select Pitch Black ClearCoat 
+Enter 10 to select Cloud 9 White ClearCoat
+5
+Select Transmission 
+Enter 1 to select Automatic
+Enter 2 to select Manual 
+1
+Select Brakes/Traction Control
+Enter 1 to select Standard
+Enter 2 to select ABS
+Enter 3 to select ABS with Advance Trac
+1
+Select Side Impact Air Bags
+Enter 1 to select Not Present
+Enter 2 to select Present
+1
+Select Power Moonroof
+Enter 1 to select Not Present
+Enter 2 to select Present
+1
+Enter Y to display choices
+y
+The Configured options are
+Model Name: Focus Wagon ZTW Ford
+Base model price: 18445.0
+Option                        Choice                                  Price  
+Color                         Sangria red ClearCoat Metallic          0.0    
+Transmission                  Automatic                               0.0    
+Brakes/Traction Control       Standard                                0.0    
+Side Impact Air Bags          Not Present                             0.0    
+Power Moonroof                Not Present                             0.0    
+Total price with Options: 18445.0
+
+Do you want to configure a car?Y or N
+n
+Do you want to upload a file?Y or N
+n
+Do you want to quit?Y or N
+y
+Exiting program
+
+
+SERVER
+File successfully created
+File successfully created
+File successfully created
+Sending all models to Client
+Sending selected auto to Client
+Sending all models to Client
+Sending selected auto to Client
+Sending all models to Client
+Sending selected auto to Client
+
+
+RUN 3
+
+CLIENT
+Enter 1 to upload a file
+Enter 2 to configure a car
+2
+Do you want to configure a car?Y or N
+y
+Getting all models
+No auto found
+Do you want to upload a file?Y or N
+y
+Enter the properties file name
+Ford_prop.txt
+Waiting for upload status
+Upload successfull
+Do you want to upload a file?Y or N
+n
+Do you want to quit?Y or N
+n
+Do you want to configure a car?Y or N
+y
+Getting all models
+Please select the model
+Enter 1 to select Focus Wagon ZTW Ford
+1
+Please select the options
+Select Color 
+Enter 1 to select Ford Knox Gold ClearCoat Metallic 
+Enter 2 to select Liquid Grey ClearCoat Metallic 
+Enter 3 to select Infra-Red ClearCoat
+Enter 4 to select Grabber Green ClearCoat Metallic 
+Enter 5 to select Sangria red ClearCoat Metallic
+Enter 6 to select French Blue ClearCoat Metallic 
+Enter 7 to select Twilight Blue ClearCoat Metallic 
+Enter 8 to select CD Silver ClearCoat Metallic 
+Enter 9 to select Pitch Black ClearCoat 
+Enter 10 to select Cloud 9 White ClearCoat
+10
+Select Transmission 
+Enter 1 to select Automatic
+Enter 2 to select Manual 
+2
+Select Brakes/Traction Control
+Enter 1 to select Standard
+Enter 2 to select ABS
+Enter 3 to select ABS with Advance Trac
+2
+Select Side Impact Air Bags
+Enter 1 to select Not Present
+Enter 2 to select Present
+1
+Select Power Moonroof
+Enter 1 to select Not Present
+Enter 2 to select Present
+2
+Enter Y to display choices
+y
+The Configured options are
+Model Name: Focus Wagon ZTW Ford
+Base model price: 18445.0
+Option                        Choice                                  Price  
+Color                         Cloud 9 White ClearCoat                 0.0    
+Transmission                  Manual                                  -815.0 
+Brakes/Traction Control       ABS                                     400.0  
+Side Impact Air Bags          Not Present                             0.0    
+Power Moonroof                Present                                 595.0  
+Total price with Options: 18625.0
+
+Do you want to configure a car?Y or N
+y
+Getting all models
+Please select the model
+Enter 1 to select Focus Wagon ZTW Ford
+1
+Please select the options
+Select Color 
+Enter 1 to select Ford Knox Gold ClearCoat Metallic 
+Enter 2 to select Liquid Grey ClearCoat Metallic 
+Enter 3 to select Infra-Red ClearCoat
+Enter 4 to select Grabber Green ClearCoat Metallic 
+Enter 5 to select Sangria red ClearCoat Metallic
+Enter 6 to select French Blue ClearCoat Metallic 
+Enter 7 to select Twilight Blue ClearCoat Metallic 
+Enter 8 to select CD Silver ClearCoat Metallic 
+Enter 9 to select Pitch Black ClearCoat 
+Enter 10 to select Cloud 9 White ClearCoat
+3
+Select Transmission 
+Enter 1 to select Automatic
+Enter 2 to select Manual 
+1
+Select Brakes/Traction Control
+Enter 1 to select Standard
+Enter 2 to select ABS
+Enter 3 to select ABS with Advance Trac
+2
+Select Side Impact Air Bags
+Enter 1 to select Not Present
+Enter 2 to select Present
+2
+Select Power Moonroof
+Enter 1 to select Not Present
+Enter 2 to select Present
+1
+Enter Y to display choices
+y
+The Configured options are
+Model Name: Focus Wagon ZTW Ford
+Base model price: 18445.0
+Option                        Choice                                  Price  
+Color                         Infra-Red ClearCoat                     0.0    
+Transmission                  Automatic                               0.0    
+Brakes/Traction Control       ABS                                     400.0  
+Side Impact Air Bags          Present                                 350.0  
+Power Moonroof                Not Present                             0.0    
+Total price with Options: 19195.0
+
+Do you want to configure a car?Y or N
+n
+Do you want to upload a file?Y or N
+n
+Do you want to quit?Y or N
+y
+Exiting program
+
+
+SERVER
+Sending all models to Client
+File successfully created
+Sending all models to Client
+Sending selected auto to Client
+Sending all models to Client
+Sending selected auto to Client
+
+
+RUN 4
+
+CLIENT
+
+Enter 1 to upload a file
+Enter 2 to configure a car
+1
+Enter the properties file name
+Ford_prop.txt
+Waiting for upload status
+Upload successfull
+Do you want to upload a file?Y or N
+n
+Do you want to quit?Y or N
+n
+Do you want to configure a car?Y or N
+y
+Getting all models
+Please select the model
+Enter 1 to select Focus Wagon ZTW Ford
+1
+Please select the options
+Select Color 
+Enter 1 to select Ford Knox Gold ClearCoat Metallic 
+Enter 2 to select Liquid Grey ClearCoat Metallic 
+Enter 3 to select Infra-Red ClearCoat
+Enter 4 to select Grabber Green ClearCoat Metallic 
+Enter 5 to select Sangria red ClearCoat Metallic
+Enter 6 to select French Blue ClearCoat Metallic 
+Enter 7 to select Twilight Blue ClearCoat Metallic 
+Enter 8 to select CD Silver ClearCoat Metallic 
+Enter 9 to select Pitch Black ClearCoat 
+Enter 10 to select Cloud 9 White ClearCoat
+4
+Select Transmission 
+Enter 1 to select Automatic
+Enter 2 to select Manual 
+2
+Select Brakes/Traction Control
+Enter 1 to select Standard
+Enter 2 to select ABS
+Enter 3 to select ABS with Advance Trac
+3
+Select Side Impact Air Bags
+Enter 1 to select Not Present
+Enter 2 to select Present
+2
+Select Power Moonroof
+Enter 1 to select Not Present
+Enter 2 to select Present
+1
+Enter Y to display choices
+n
+Do you want to upload a file?Y or N
+n
+Do you want to quit?Y or N
+y
+Exiting program
+
+SERVER
+File successfully created
+Sending all models to Client
+Sending selected auto to Client
+

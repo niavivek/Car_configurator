@@ -1,0 +1,546 @@
+Name : Nianthrini Vivekanandan
+Class and Section : CIS 35B De Anza -Java programming
+Assignment Number : Lab 2
+Due Date : 04/30/2016
+Date Submitted :04/30/2016
+
+Test runs for Step 2
+
+RUN 1
+
+OUTPUT - No errors
+Automotive Name: Ford Focus Wagon ZTW	 Price: 18445.0	 Number of Option Sets: 5
+
+Color                                             Price
+Ford Knox Gold ClearCoat Metallic                 0.0
+Liquid Grey ClearCoat Metallic                    0.0
+Infra-Red ClearCoat                               0.0
+Grabber Green ClearCoat Metallic                  0.0
+Sangria red ClearCoat Metallic                    0.0
+French Blue ClearCoat Metallic                    0.0
+Twilight Blue ClearCoat Metallic                  0.0
+CD Silver ClearCoat Metallic                      0.0
+Pitch Black ClearCoat                             0.0
+Cloud 9 White ClearCoat                           0.0
+
+Transmission                                      Price
+Automatic                                         0.0
+Manual                                            -815.0
+
+Brakes/Traction Control                           Price
+Standard                                          0.0
+ABS                                               400.0
+ABS with Advance Trac                             1625.0
+
+Side Impact Air Bags                              Price
+Not Present                                       0.0
+Present                                           350.0
+
+Power Moonroof                                    Price
+Not Present                                       0.0
+Present                                           595.0
+Automotive Name: Ford Focus Wagon ZTW	 Price: 18445.0	 Number of Option Sets: 5
+
+Flavors                                           Price
+Ford Knox Gold ClearCoat Metallic                 100.0
+Liquid Grey ClearCoat Metallic                    0.0
+Infra-Red ClearCoat                               0.0
+Grabber Green ClearCoat Metallic                  0.0
+Sangria red ClearCoat Metallic                    0.0
+French Blue ClearCoat Metallic                    0.0
+Twilight Blue ClearCoat Metallic                  0.0
+CD Silver ClearCoat Metallic                      0.0
+Pitch Black ClearCoat                             0.0
+Cloud 9 White ClearCoat                           0.0
+
+Transmission                                      Price
+Automatic                                         0.0
+Manual                                            -815.0
+
+Brakes/Traction Control                           Price
+Standard                                          0.0
+ABS                                               400.0
+ABS with Advance Trac                             1625.0
+
+Side Impact Air Bags                              Price
+Not Present                                       0.0
+Present                                           350.0
+
+Power Moonroof                                    Price
+Not Present                                       0.0
+Present                                           595.0
+
+
+
+RUN 2
+
+Automotive Name: Ford Focus Wagon ZTW	 Price: 18445.0	 Number of Option Sets: 5
+
+Color                                             Price
+Ford Knox Gold ClearCoat Metallic                 0.0
+Liquid Grey ClearCoat Metallic                    0.0
+Infra-Red ClearCoat                               0.0
+Grabber Green ClearCoat Metallic                  0.0
+Sangria red ClearCoat Metallic                    0.0
+French Blue ClearCoat Metallic                    0.0
+Twilight Blue ClearCoat Metallic                  0.0
+CD Silver ClearCoat Metallic                      0.0
+Pitch Black ClearCoat                             0.0
+Cloud 9 White ClearCoat                           0.0
+
+Transmission                                      Price
+Automatic                                         0.0
+Manual                                            -815.0
+
+Brakes/Traction Control                           Price
+Standard                                          0.0
+ABS                                               400.0
+ABS with Advance Trac                             1625.0
+
+Side Impact Air Bags                              Price
+Not Present                                       0.0
+Present                                           350.0
+
+Power Moonroof                                    Price
+Not Present                                       0.0
+Present                                           595.0
+Automotive Name: Ford Focus Wagon ZTW	 Price: 18445.0	 Number of Option Sets: 5
+
+Color                                             Price
+Ford Knox Gold ClearCoat Metallic                 0.0
+Liquid Grey ClearCoat Metallic                    0.0
+Infra-Red ClearCoat                               0.0
+Grabber Green ClearCoat Metallic                  0.0
+Sangria red ClearCoat Metallic                    0.0
+French Blue ClearCoat Metallic                    0.0
+Twilight Blue ClearCoat Metallic                  0.0
+CD Silver ClearCoat Metallic                      0.0
+Pitch Black ClearCoat                             0.0
+Cloud 9 White ClearCoat                           0.0
+
+Tranmission Type                                  Price
+Automatic                                         100.0
+Manual                                            -815.0
+
+Brakes/Traction Control                           Price
+Standard                                          0.0
+ABS                                               400.0
+ABS with Advance Trac                             1625.0
+
+Side Impact Air Bags                              Price
+Not Present                                       0.0
+Present                                           350.0
+
+Power Moonroof                                    Price
+Not Present                                       0.0
+Present                                           595.0
+
+
+RUN 3
+
+INPUT - option size format error
+Ford Focus Wagon ZTW,18445.0,5.0
+Color,10
+Ford Knox Gold ClearCoat Metallic,0.0
+Liquid Grey ClearCoat Metallic,0.0
+Infra-Red ClearCoat,0.0
+Grabber Green ClearCoat Metallic,0.0
+Sangria red ClearCoat Metallic,0.0
+French Blue ClearCoat Metallic,0.0
+Twilight Blue ClearCoat Metallic,0.0
+CD Silver ClearCoat Metallic,0.0
+Pitch Black ClearCoat,0.0
+Cloud 9 White ClearCoat,0.0
+Transmission,2
+Automatic,0.0
+Manual,-815.0
+Brakes/Traction Control,3
+Standard,0.0
+ABS,400
+ABS with Advance Trac,1625
+Side Impact Air Bags,2
+Not Present,0.0
+Present,350.0
+Power Moonroof,2
+Not Present,0.0
+Present,595.0
+
+OUTPUT
+
+AutoException -Format for Number of option sets is not valid with error number 1
+Enter the number of option sets 
+5
+Automotive Name: Ford Focus Wagon ZTW	 Price: 18445.0	 Number of Option Sets: 5
+
+Color                                             Price
+Ford Knox Gold ClearCoat Metallic                 0.0
+Liquid Grey ClearCoat Metallic                    0.0
+Infra-Red ClearCoat                               0.0
+Grabber Green ClearCoat Metallic                  0.0
+Sangria red ClearCoat Metallic                    0.0
+French Blue ClearCoat Metallic                    0.0
+Twilight Blue ClearCoat Metallic                  0.0
+CD Silver ClearCoat Metallic                      0.0
+Pitch Black ClearCoat                             0.0
+Cloud 9 White ClearCoat                           0.0
+
+Transmission                                      Price
+Automatic                                         0.0
+Manual                                            -815.0
+
+Brakes/Traction Control                           Price
+Standard                                          0.0
+ABS                                               400.0
+ABS with Advance Trac                             1625.0
+
+Side Impact Air Bags                              Price
+Not Present                                       0.0
+Present                                           350.0
+
+Power Moonroof                                    Price
+Not Present                                       0.0
+Present                                           595.0
+Automotive Name: Ford Focus Wagon ZTW	 Price: 18445.0	 Number of Option Sets: 5
+
+Flavors                                           Price
+Ford Knox Gold ClearCoat Metallic                 100.0
+Liquid Grey ClearCoat Metallic                    0.0
+Infra-Red ClearCoat                               0.0
+Grabber Green ClearCoat Metallic                  0.0
+Sangria red ClearCoat Metallic                    0.0
+French Blue ClearCoat Metallic                    0.0
+Twilight Blue ClearCoat Metallic                  0.0
+CD Silver ClearCoat Metallic                      0.0
+Pitch Black ClearCoat                             0.0
+Cloud 9 White ClearCoat                           0.0
+
+Transmission                                      Price
+Automatic                                         0.0
+Manual                                            -815.0
+
+Brakes/Traction Control                           Price
+Standard                                          0.0
+ABS                                               400.0
+ABS with Advance Trac                             1625.0
+
+Side Impact Air Bags                              Price
+Not Present                                       0.0
+Present                                           350.0
+
+Power Moonroof                                    Price
+Not Present                                       0.0
+Present                                           595.0
+
+
+
+RUN 4
+
+INPUT - Model price format error
+Ford Focus Wagon ZTW,$18445.0,5
+Color,10
+Ford Knox Gold ClearCoat Metallic,0.0
+Liquid Grey ClearCoat Metallic,0.0
+Infra-Red ClearCoat,0.0
+Grabber Green ClearCoat Metallic,0.0
+Sangria red ClearCoat Metallic,0.0
+French Blue ClearCoat Metallic,0.0
+Twilight Blue ClearCoat Metallic,0.0
+CD Silver ClearCoat Metallic,0.0
+Pitch Black ClearCoat,0.0
+Cloud 9 White ClearCoat,0.0
+Transmission,2
+Automatic,0.0
+Manual,-815.0
+Brakes/Traction Control,3
+Standard,0.0
+ABS,400
+ABS with Advance Trac,1625
+Side Impact Air Bags,2
+Not Present,0.0
+Present,350.0
+Power Moonroof,2
+Not Present,0.0
+Present,595.0
+
+OUTPUT
+AutoException -Model price format with error number 2
+Fix not implemented
+
+
+RUN 5
+
+INPUT - option size missing error
+Ford Focus Wagon ZTW,18445.0,5
+Color,
+Ford Knox Gold ClearCoat Metallic,0.0
+Liquid Grey ClearCoat Metallic,0.0
+Infra-Red ClearCoat,0.0
+Grabber Green ClearCoat Metallic,0.0
+Sangria red ClearCoat Metallic,0.0
+French Blue ClearCoat Metallic,0.0
+Twilight Blue ClearCoat Metallic,0.0
+CD Silver ClearCoat Metallic,0.0
+Pitch Black ClearCoat,0.0
+Cloud 9 White ClearCoat,0.0
+Transmission,2
+Automatic,0.0
+Manual,-815.0
+Brakes/Traction Control,3
+Standard,0.0
+ABS,400
+ABS with Advance Trac,1625
+Side Impact Air Bags,2
+Not Present,0.0
+Present,350.0
+Power Moonroof,2
+Not Present,0.0
+Present,595.0
+
+OUTPUT
+AutoException -Option Size not found with error number 3
+Fix not implemented
+
+RUN 6
+
+INPUT - option price missing error
+Ford Focus Wagon ZTW,18445.0,5
+Color,10
+Ford Knox Gold ClearCoat Metallic,
+Liquid Grey ClearCoat Metallic,0.0
+Infra-Red ClearCoat,0.0
+Grabber Green ClearCoat Metallic,0.0
+Sangria red ClearCoat Metallic,0.0
+French Blue ClearCoat Metallic,0.0
+Twilight Blue ClearCoat Metallic,0.0
+CD Silver ClearCoat Metallic,0.0
+Pitch Black ClearCoat,0.0
+Cloud 9 White ClearCoat,0.0
+Transmission,2
+Automatic,0.0
+Manual,-815.0
+Brakes/Traction Control,3
+Standard,0.0
+ABS,400
+ABS with Advance Trac,1625
+Side Impact Air Bags,2
+Not Present,0.0
+Present,350.0
+Power Moonroof,2
+Not Present,0.0
+Present,595.0
+
+OUTPUT
+AutoException -Option price not found with error number 4
+Fix not implemented
+
+
+RUN 7
+
+INPUT - Format of option price error
+Ford Focus Wagon ZTW,18445.0,5
+Color,10
+Ford Knox Gold ClearCoat Metallic,$
+Liquid Grey ClearCoat Metallic,0.0
+Infra-Red ClearCoat,0.0
+Grabber Green ClearCoat Metallic,0.0
+Sangria red ClearCoat Metallic,0.0
+French Blue ClearCoat Metallic,0.0
+Twilight Blue ClearCoat Metallic,0.0
+CD Silver ClearCoat Metallic,0.0
+Pitch Black ClearCoat,0.0
+Cloud 9 White ClearCoat,0.0
+Transmission,2
+Automatic,0.0
+Manual,-815.0
+Brakes/Traction Control,3
+Standard,0.0
+ABS,400
+ABS with Advance Trac,1625
+Side Impact Air Bags,2
+Not Present,0.0
+Present,350.0
+Power Moonroof,2
+Not Present,0.0
+Present,595.0
+
+OUTPUT
+AutoException -Option price format with error number 5
+Fix not implemented
+
+
+RUN 8
+
+Automotive Name: Toyota Prius Two	 Price: 23485.0	 Number of Option Sets: 6
+
+Color                                             Price
+Ford Knox Gold ClearCoat Metallic                 0.0
+Liquid Grey ClearCoat Metallic                    0.0
+Infra-Red ClearCoat                               0.0
+Grabber Green ClearCoat Metallic                  0.0
+Sangria red ClearCoat Metallic                    0.0
+French Blue ClearCoat Metallic                    0.0
+Twilight Blue ClearCoat Metallic                  0.0
+CD Silver ClearCoat Metallic                      0.0
+Pitch Black ClearCoat                             0.0
+Cloud 9 White ClearCoat                           0.0
+
+Transmission                                      Price
+Automatic                                         0.0
+Manual                                            -815.0
+
+Brakes/Traction Control                           Price
+Standard                                          0.0
+ABS                                               400.0
+ABS with Advance Trac                             1625.0
+
+Side Impact Air Bags                              Price
+Not Present                                       0.0
+Present                                           350.0
+
+Power Moonroof                                    Price
+Not Present                                       0.0
+Present                                           595.0
+
+Driver Assistance Package                         Price
+Not Present                                       0.0
+Present                                           1695.0
+Automotive Name: Toyota Prius Two	 Price: 23485.0	 Number of Option Sets: 6
+
+Color                                             Price
+Ford Knox Gold ClearCoat Metallic                 0.0
+Liquid Grey ClearCoat Metallic                    0.0
+Infra-Red ClearCoat                               0.0
+Grabber Green ClearCoat Metallic                  0.0
+Sangria red ClearCoat Metallic                    0.0
+French Blue ClearCoat Metallic                    0.0
+Twilight Blue ClearCoat Metallic                  0.0
+CD Silver ClearCoat Metallic                      0.0
+Pitch Black ClearCoat                             0.0
+Cloud 9 White ClearCoat                           0.0
+
+Tranmission Type                                  Price
+Automatic                                         100.0
+Manual                                            -815.0
+
+Brakes/Traction Control                           Price
+Standard                                          0.0
+ABS                                               400.0
+ABS with Advance Trac                             1625.0
+
+Side Impact Air Bags                              Price
+Not Present                                       0.0
+Present                                           350.0
+
+Power Moonroof                                    Price
+Not Present                                       0.0
+Present                                           595.0
+
+Driver Assistance Package                         Price
+Not Present                                       0.0
+Present                                           1695.0
+
+RUN 9
+
+INPUT
+Toyota Prius Two,23485.0,$
+Color,10
+Ford Knox Gold ClearCoat Metallic,0.0
+Liquid Grey ClearCoat Metallic,0.0
+Infra-Red ClearCoat,0.0
+Grabber Green ClearCoat Metallic,0.0
+Sangria red ClearCoat Metallic,0.0
+French Blue ClearCoat Metallic,0.0
+Twilight Blue ClearCoat Metallic,0.0
+CD Silver ClearCoat Metallic,0.0
+Pitch Black ClearCoat,0.0
+Cloud 9 White ClearCoat,0.0
+Transmission,2
+Automatic,0.0
+Manual,-815.0
+Brakes/Traction Control,3
+Standard,0.0
+ABS,400
+ABS with Advance Trac,1625
+Side Impact Air Bags,2
+Not Present,0.0
+Present,350.0
+Power Moonroof,2
+Not Present,0.0
+Present,595.0
+Driver Assistance Package,2
+Not Present,0.0
+Present,1695.0
+
+OUTPUT
+AutoException -Format for Number of option sets is not valid with error number 1
+Enter the number of option sets 
+
+6
+Automotive Name: Toyota Prius Two	 Price: 23485.0	 Number of Option Sets: 6
+
+Color                                             Price
+Ford Knox Gold ClearCoat Metallic                 0.0
+Liquid Grey ClearCoat Metallic                    0.0
+Infra-Red ClearCoat                               0.0
+Grabber Green ClearCoat Metallic                  0.0
+Sangria red ClearCoat Metallic                    0.0
+French Blue ClearCoat Metallic                    0.0
+Twilight Blue ClearCoat Metallic                  0.0
+CD Silver ClearCoat Metallic                      0.0
+Pitch Black ClearCoat                             0.0
+Cloud 9 White ClearCoat                           0.0
+
+Transmission                                      Price
+Automatic                                         0.0
+Manual                                            -815.0
+
+Brakes/Traction Control                           Price
+Standard                                          0.0
+ABS                                               400.0
+ABS with Advance Trac                             1625.0
+
+Side Impact Air Bags                              Price
+Not Present                                       0.0
+Present                                           350.0
+
+Power Moonroof                                    Price
+Not Present                                       0.0
+Present                                           595.0
+
+Driver Assistance Package                         Price
+Not Present                                       0.0
+Present                                           1695.0
+Automotive Name: Toyota Prius Two	 Price: 23485.0	 Number of Option Sets: 6
+
+Color                                             Price
+Ford Knox Gold ClearCoat Metallic                 0.0
+Liquid Grey ClearCoat Metallic                    0.0
+Infra-Red ClearCoat                               0.0
+Grabber Green ClearCoat Metallic                  0.0
+Sangria red ClearCoat Metallic                    0.0
+French Blue ClearCoat Metallic                    0.0
+Twilight Blue ClearCoat Metallic                  0.0
+CD Silver ClearCoat Metallic                      0.0
+Pitch Black ClearCoat                             0.0
+Cloud 9 White ClearCoat                           0.0
+
+Tranmission Type                                  Price
+Automatic                                         100.0
+Manual                                            -815.0
+
+Brakes/Traction Control                           Price
+Standard                                          0.0
+ABS                                               400.0
+ABS with Advance Trac                             1625.0
+
+Side Impact Air Bags                              Price
+Not Present                                       0.0
+Present                                           350.0
+
+Power Moonroof                                    Price
+Not Present                                       0.0
+Present                                           595.0
+
+Driver Assistance Package                         Price
+Not Present                                       0.0
+Present                                           1695.0

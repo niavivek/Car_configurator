@@ -1,0 +1,28 @@
+2008 Toyota Prius Two,23485.0,6
+Color,10
+Ford Knox Gold ClearCoat Metallic,0.0
+Liquid Grey ClearCoat Metallic,0.0
+Infra-Red ClearCoat,0.0
+Grabber Green ClearCoat Metallic,0.0
+Sangria red ClearCoat Metallic,0.0
+French Blue ClearCoat Metallic,0.0
+Twilight Blue ClearCoat Metallic,0.0
+CD Silver ClearCoat Metallic,0.0
+Pitch Black ClearCoat,0.0
+Cloud 9 White ClearCoat,0.0
+Transmission,2
+Automatic,0.0
+Manual,-815.0
+Brakes/Traction Control,3
+Standard,0.0
+ABS,400
+ABS with Advance Trac,1625
+Side Impact Air Bags,2
+Not Present,0.0
+Present,350.0
+Power Moonroof,2
+Not Present,0.0
+Present,595.0
+Driver Assistance Package,2
+Not Present,0.0
+Present,1695.0
